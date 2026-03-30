@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     ":semanticCommitType(chore)",
-    "config:base",
+    "config:recommended",
     "config:best-practices"
   ],
   "automergeType": "branch",
