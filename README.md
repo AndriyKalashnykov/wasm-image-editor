@@ -1,5 +1,8 @@
 # wasm-image-editor
 
+[![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
+[![License](https://img.shields.io/github/license/AndriyKalashnykov/wasm-image-editor)](https://github.com/AndriyKalashnykov/wasm-image-editor/blob/main/LICENSE)
+
 Image Editor powered by WebAssembly and Rust.
 
 | JavaScript | WebAssembly |
